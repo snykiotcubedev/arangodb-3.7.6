@@ -52,7 +52,7 @@
     "jest": "^25.5.4",
     "jest-pnp-resolver": "1.0.1",
     "jest-resolve": "23.6.0",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "jsoneditor": "^5.26.3",
     "lodash": "^4.17.11",
     "marked": "^0.7.0",
